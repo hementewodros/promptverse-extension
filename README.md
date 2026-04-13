@@ -1,4 +1,38 @@
 # promptverse-extension
+Great move — this is exactly how you make your project look **real and professional** 🔥
+
+Below is a **ready-to-use GitHub repo setup** for your extension.
+
+---
+
+# 📁 REPOSITORY STRUCTURE
+
+```bash
+promptverse/
+│
+├── manifest.json
+├── popup.html
+├── popup.css
+├── popup.js
+├── prompts.json
+├── icons/
+│   ├── icon16.png
+│   ├── icon48.png
+│   └── icon128.png
+│
+├── screenshots/
+│   ├── step1-tag-search.png
+│   ├── step2-prompt-list.png
+│   ├── step3-copy.png
+│
+└── README.md
+```
+
+---
+
+# 📝 README.md (COPY THIS EXACTLY)
+
+```markdown
 # 🚀 PromptVerse
 
 **PromptVerse** is a browser extension that helps users generate AI prompts in **Amharic** — no English required.
@@ -49,3 +83,75 @@ PromptVerse allows Amharic speakers to:
 3. Open your browser:
 
 **Microsoft Edge**
+```
+
+edge://extensions/
+
+```
+
+**Chrome**
+```
+
+chrome://extensions/
+
+```
+
+4. Enable **Developer Mode**
+5. Click **Load unpacked**
+6. Select the project folder
+
+✅ Done!
+
+---
+
+## 🧪 How to Use
+
+1. Click the extension icon
+2. Type in Amharic (e.g. `ቢ`)
+3. Select a tag (e.g. `ቢዝነስ`)
+4. Browse prompts
+5. Click **Copy**
+6. Paste into ChatGPT
+
+---
+
+## 📦 Dataset
+
+Prompts are stored locally in:
+```
+
+prompts.json
+
+```
+
+No internet or backend required.
+
+---
+
+## 🔒 Privacy
+
+- No data collection
+- No tracking
+- Everything runs locally
+
+---
+
+## 🚀 Future Plans
+
+- ⭐ Favorites
+- 🌙 Dark mode
+- ☁️ Cloud sync
+- 📱 Mobile app
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!
+
+---
+
+## 📄 License
+
+MIT License
+```
