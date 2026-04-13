@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Business",
+    "tag": "ቢዝነስ",
+    "amharic_prompt": "አዲስ ቢዝነስ ለመጀመር እርምጃዎች",
+    "english_translation": "Steps to start a new business"
+  },
+  {
+    "category": "Business",
+    "tag": "ቢዝነስ",
+    "amharic_prompt": "የገቢ ማስገኛ አዳዲስ ሀሳቦች",
+    "english_translation": "New income-generating ideas"
+  },
+  {
+    "category": "Education",
+    "tag": "ትምህርት",
+    "amharic_prompt": "ፈተና ለመዘጋጀት ምክሮች",
+    "english_translation": "Tips to prepare for exams"
+  },
+  {
+    "category": "Education",
+    "tag": "ትምህርት",
+    "amharic_prompt": "በፍጥነት ማማር ዘዴዎች",
+    "english_translation": "Ways to learn faster"
+  },
+  {
+    "category": "Technology",
+    "tag": "ቴክኖሎጂ",
+    "amharic_prompt": "AI ምንድነው?",
+    "english_translation": "What is AI?"
+  },
+  {
+    "category": "Technology",
+    "tag": "ቴክኖሎጂ",
+    "amharic_prompt": "ChatGPT እንዴት ይሰራል?",
+    "english_translation": "How does ChatGPT work?"
+  },
+  {
+    "category": "Health",
+    "tag": "ጤና",
+    "amharic_prompt": "ጤናማ መኖር መመኪያዎች",
+    "english_translation": "Healthy living tips"
+  },
+  {
+    "category": "Health",
+    "tag": "ጤና",
+    "amharic_prompt": "እርስዎን እንዴት መጠበቅ እንደሚቻል",
+    "english_translation": "How to take care of yourself"
+  },
+  {
+    "category": "Writing",
+    "tag": "መጻፍ",
+    "amharic_prompt": "ታሪክ መጻፍ መጀመሪያ",
+    "english_translation": "How to start writing a story"
+  },
+  {
+    "category": "Writing",
+    "tag": "መጻፍ",
+    "amharic_prompt": "ፈጣን የፈጠራ ሀሳቦች",
+    "english_translation": "Creative writing ideas"
+  }
+]

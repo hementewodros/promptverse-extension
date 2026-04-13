@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="am">
+<head>
+  <meta charset="UTF-8">
+  <title>PromptVerse</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>PromptVerse</h1>
+
+  <!-- STEP 1 -->
+  <input id="tagInput" type="text" placeholder="መለያ (Tag) ፈልግ..." />
+  <ul id="tagSuggestions" class="dropdown"></ul>
+
+  <!-- STEP 2 -->
+  <input id="promptSearch" type="text" placeholder="Prompt ፈልግ..." class="hidden" />
+
+  <!-- RESULTS -->
+  <div id="promptList"></div>
+
+  <div id="toast">Copied!</div>
+</div>
+
+<script src="popup.js"></script>
+</body>
+</html>
